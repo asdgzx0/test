@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>FantUI云门店</title>
+    <title>FantUI云门店0.10.9</title>
     <description>FantUI云门店特供版</description>
     <image>
       <url></url>
-      <title>FantUI云门店</title>
+      <title>FantUI云门店0.10.9</title>
     </image>
     <generator>Sketch</generator>
     <item>
-      <title>FantUI云门店0.10.8</title>
+      <title>FantUI云门店0.10.9</title>
       <pubDate>Thu, 16 Jun 2022 21:10:04 +0000</pubDate>
-      <enclosure url="https://github.com/asdgzx0/test/raw/main/FantUI%E4%BA%91%E9%97%A8%E5%BA%970.10.8.sketch" type="application/octet-stream" sparkle:version="0.10.8"/>
+      <enclosure url="https://github.com/asdgzx0/test/blob/main/FantUI%E4%BA%91%E9%97%A8%E5%BA%970.10.9.sketch" type="application/octet-stream" sparkle:version="0.10.9"/>
     </item>
   </channel>
 </rss>
